@@ -1,0 +1,76 @@
+.orderpopup {
+    position: fixed;
+    top: 60px;
+    right: 10px;
+    z-index: 9999;
+  }
+  
+  .eachOrderPop {
+    display: flex;
+    background-color: white;
+    margin-bottom: 3px;
+    border: solid 2.5px lightslategrey;
+    border-radius: 5px;
+    /* lightskyblue */
+  }
+  
+  .eachOrderPop > .imagePlace > img {
+    height: 80px;
+    width: 100px;
+    object-fit: contain;
+  }
+  
+  .eachOrderPop > .itemContent {
+    min-width: 120px;
+    background-color: lightyellow;
+    color: black;
+    text-align: right;
+    padding-right: 5px;
+  }
+  
+  .closeIcon {
+    height: 16px !important;
+    padding-top: 5px;
+  }
+  
+  /* 
+    .eachOrderPop > table > tr > td > .imagePlace {
+    }
+    .eachOrderPop > table > tr > td > .imagePlace > img {
+      height: 80px;
+      width: 80px;
+      object-fit: contain;
+    }
+    .eachOrderPop > table > tr > td > .itemContent {
+      position: relative;
+    }
+    .eachOrderPop > table > tr > td > .itemContent > span {
+      position: absolute;
+      right: 0;
+      top: -20px;
+    }
+    .eachOrderPop > table > tr > td > .itemContent > span > svg {
+      height: 16px;
+    } */
+  
+  /* .eachOrderPop > .imagePlace {
+      margin-right: 5px;
+    }
+    .eachOrderPop > .imagePlace > img {
+      height: 80px;
+      width: 80px;
+      object-fit: fill;
+    }
+    .eachOrderPop > .itemContent {
+      display: flex;
+      flex-direction: column;
+    }
+    .itemContent {
+      position: relative;
+    }
+    .itemContent > span {
+      position: absolute;
+      right: 0;
+      top: 0;
+    } */
+  
