@@ -1,3 +1,20 @@
+A amazone clone app creatd by react js.I have created login page,,home page,add to cart page you can add item and remove item.
+
+
+
+login and sign up page
+
+![image](https://user-images.githubusercontent.com/34640475/122670981-352eb680-d1e2-11eb-87c4-780f74f65e4a.png)
+
+home page
+
+![image](https://user-images.githubusercontent.com/34640475/122671042-74f59e00-d1e2-11eb-9f87-38cf4fc43889.png)
+
+add to cart page 
+
+![image](https://user-images.githubusercontent.com/34640475/122671054-88a10480-d1e2-11eb-85f6-429e1cb45f6a.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
